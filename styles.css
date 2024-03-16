@@ -1,0 +1,44 @@
+
+body{
+background-image: url(images/passenger.jpg);
+max-width: 550px;
+height:500px;
+text-align: center;
+background-size: cover;
+background-position: center;
+background-repeat: no-repeat;
+padding: 20px;
+color: #333;
+overflow: hidden;
+}
+
+h1{
+margin-top: 10px;
+margin-bottom: 10px;
+}
+h2{
+margin-top: 0;
+font-size: 50px;
+margin-bottom: 20px;
+}
+button{
+border: none;
+padding-top: 10px;
+padding-bottom: 10px;
+font-weight: bold;
+width: 200px;
+color: white;
+margin-bottom: 5px;
+border-radius: 5px;
+}
+#save-el{
+font-size: 40px;
+font-weight: bold;
+color: black;
+}
+#increment-btn{
+background: darkred;
+}
+#save-btn{
+background: darkgreen;
+}
